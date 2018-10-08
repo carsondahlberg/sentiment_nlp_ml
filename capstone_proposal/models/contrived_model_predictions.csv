@@ -1,0 +1,21 @@
+,document,score,bows_1,tfidf_1,w2v_1,bocs_pred,hard_vote_pred,soft_vote_pred
+0,Expensive restaurants with horrible food that people still go to for the prime location or atmosphere.,0,0.054483675870691174,0.30457147339860235,0.3170840690114827,0,0,0
+1,It has a beautiful view of the Eiffel Tower!,1,0.8638990312196413,0.851153338736768,0.879513879203163,1,1,1
+2,"Nah, that place is a total touristaurant, my food was awful last time I ate there.",0,0.06793844754095588,0.2141753468933804,0.23074915733498988,0,0,0
+3,"I had a great day, climbed a hill and didn't check facebook.",1,0.9720605316703615,0.9209727756265785,0.6825934297097784,1,1,1
+4,That corgi-shaped macaron is expensive because it's got instagram tax.,1,0.4505007694712387,0.4295384228100892,0.3834752608473779,1,0,0
+5,That 1962 Alfa Romeo is good for transportainment,1,0.7487971946065232,0.8765213412506465,0.7523747434459155,1,1,1
+6,not so great for getting to work in the snow,0,0.9541424248371457,0.9658350825964863,0.7241322301316072,1,1,1
+7,This is so sad Alexa play despacito,0,0.5403810155852731,0.5778292614863918,0.5575718133328803,1,1,1
+8,This better not escalate to Dutch ovens any time soon...,0,0.4028376819846266,0.4296718772880185,0.30121466622349086,1,0,1
+9,"Oh. It has too many calories for me. Well, OK.",1,0.17722992583500288,0.38392499832989047,0.651511480207458,0,0,0
+10,"Mmm, this pizza is some good food.",1,0.6342864706800512,0.6203220701764643,0.6087963672012824,1,1,1
+11,Food's better for throwing at someone than eating.,0,0.4150848967241243,0.46805132692825363,0.2118363078904081,0,0,0
+12,"Are you finished with your restau-rant? I get it, we're outta here. Let's pay the check and leave.",0,0.054964838272532464,0.20228284186371778,0.3052173941898994,1,0,0
+13,"The Primrose Bar and Restaurant in Ballynahinch, Co. Down in the north of Ireland is one of the best in the country. ",1,0.9348052554605721,0.8133991914596581,0.7041979619191261,0,1,1
+14,This burger is crappy.,0,0.3678961402246985,0.39374489805752855,0.0871708137077564,0,0,0
+15,DUDE! I got buffungled by Amazon.com with a 8-12 day shipping time!,0,0.573092046792614,0.5821697440704706,0.49570762924588746,0,1,1
+16,I am going to <b>BUY</b> that game RIGHT NOW.,1,0.4582649732085026,0.4750180914919227,0.4423563943205482,1,0,1
+17,"wow, that was great!",1,0.9728773365548021,0.9417995779117216,0.9819926763429223,1,1,1
+18,That movie was great!,1,0.9462595135295123,0.9605783082788744,0.948774608667444,1,1,1
+19,The computer crashed again. I lost three thousand lines of code.,0,0.42192702944621663,0.40713471105747095,0.21377637345204828,0,0,0
