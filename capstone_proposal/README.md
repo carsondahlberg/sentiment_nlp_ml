@@ -19,7 +19,7 @@ capstone_project
 ├── models                            <- Trained/serialized models PKL format, model predictions
 │
 ├── proposal.pdf                      <- completed pre-requisite Capstone Proposal document
-├── project_report.pdf                <- Definition, Analysis, Methodology, Results, Conclusion PDF
+├── capstone_report.pdf                <- Definition, Analysis, Methodology, Results, Conclusion PDF
 ├── predict_review_sentiment          <- Main Jupyter Notebook models and analysis in Python3 
 ├── predict_review_sentiment-custom_features <- Jupyter Notebook exploring hand-crafter feature engineering Python2
 ├── character_ngrams.ipynb            <- Jupyter Notebook exploring character-level n-grams in Python3
